@@ -1,0 +1,5 @@
+{
+    "baseUrl": "http://example.com",
+    "integrationFolder": "cypress/e2e" 
+  }
+  
